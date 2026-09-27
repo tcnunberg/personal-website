@@ -3,7 +3,7 @@ Personal portfolio website showcasing my experience, skills, and projects.
 
 This website is in progress. Content and projects will be added over time.
 
-[View the website](https://tate-curtis-nunberg-2026.tcnunberg.chatgpt.site/)
+[View the website](https://tcnunberg.github.io/personal-website/)
 
 ## Code
 
@@ -38,4 +38,4 @@ Then open http://localhost:8000 in a browser. Press Control+C in the terminal to
 3. Click **Commit to main** to save a version on your computer.
 4. Click **Push origin** to upload that version to GitHub.
 
-The live website is hosted through Sites. A GitHub push saves the code online; it does not automatically update the live website. Publishing to Sites is a separate step.
+The website is hosted on GitHub Pages. Pushing changes to `main` starts the publishing workflow automatically. Check the repository’s **Actions** tab for progress; updates appear after the deployment succeeds.
