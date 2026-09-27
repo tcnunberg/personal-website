@@ -38,4 +38,4 @@ Then open http://localhost:8000 in a browser. Press Control+C in the terminal to
 3. Click **Commit to main** to save a version on your computer.
 4. Click **Push origin** to upload that version to GitHub.
 
-The live website is hosted through Sites. A GitHub push saves the code online; it does not automatically update the live website. Publishing to Sites is a separate step. `.openai/hosting.json` records the existing site and its publishing directory.
+The live website is hosted through Sites. A GitHub push saves the code online; it does not automatically update the live website. Publishing to Sites is a separate step.
